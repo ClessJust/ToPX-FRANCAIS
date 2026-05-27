@@ -40,20 +40,20 @@ Discord Tales of ABCDE : https://discord.gg/MM8g3cKHp
                                                               *Version 1.0*
 --------------------------------------------------
 
--Texte entièrement traduit en français
--Assets graphiques textuels entièrement remaniés
--Ajustements diacritiques
--Améliorations du gameplay par Life Bottle Production, incluant, sans s'y limiter :
+- Texte entièrement traduit en français
+- Assets graphiques textuels entièrement remaniés
+- Ajustements diacritiques
+- Améliorations du gameplay par Life Bottle Production, incluant, sans s'y limiter :
 
--Fioles sacrées améliorées (évite rencontre ennemi au lieu de réduire fréquence)
--Certains objets supplémentaires peuvent être conservés dans une nouvelle partie +
--Cheatcode pour activer les 60fps en combat
--Sous-titrage saynètes
--Ajout d'une icône pour saynètes lorsqu'une nouvelle est disponible
--Possibilité de visiter Euclid avant de combattre le sanglier, au début du jeu
--Implémentation des sprites appropriés dans le Bestiaire
--Crédits de fin modifiés pour inclure notre équipe
--Correction de l'affichage des faiblesses d'Ishrantu dans le Bestiaire
+- Fioles sacrées améliorées (évite rencontre ennemi au lieu de réduire fréquence)
+- Certains objets supplémentaires peuvent être conservés dans une nouvelle partie +
+- Cheatcode pour activer les 60fps en combat
+- Sous-titrage saynètes
+- Ajout d'une icône pour saynètes lorsqu'une nouvelle est disponible
+- Possibilité de visiter Euclid avant de combattre le sanglier, au début du jeu
+- Implémentation des sprites appropriés dans le Bestiaire
+- Crédits de fin modifiés pour inclure notre équipe
+- Correction de l'affichage des faiblesses d'Ishrantu dans le Bestiaire
 
 ------------------------------------------------------
 
