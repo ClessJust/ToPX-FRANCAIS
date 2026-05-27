@@ -31,7 +31,9 @@ Patch créé par mziab
 
 Remerciements aux sus-cités pour le travail de longue haleine fourni par chacun.
 
+
 Contact : @clesslejuste sur Discord
+
 Discord Tales of ABCDE : https://discord.gg/MM8g3cKHp
 ---------------------------------------------------
 
