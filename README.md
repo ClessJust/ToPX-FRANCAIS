@@ -35,7 +35,7 @@ Contact : @clesslejuste sur Discord
 Discord Tales of ABCDE : https://discord.gg/MM8g3cKHp
 ---------------------------------------------------
 
-              Version 1.0
+                                                              *Version 1.0*
 --------------------------------------------------
 
 -Texte entièrement traduit en français
@@ -53,7 +53,7 @@ Discord Tales of ABCDE : https://discord.gg/MM8g3cKHp
 -Crédits de fin modifiés pour inclure notre équipe
 -Correction de l'affichage des faiblesses d'Ishrantu dans le Bestiaire
 
-=================================================================================
+------------------------------------------------------
 
 Cette traduction a été réalisée dans le but d'offrir une traduction très fidèle
 à la version originale en japonais, en s'appuyant sur toutes les ressources possibles. 
@@ -61,3 +61,15 @@ Il est à noter que si la plupart des termes techniques utilisés sont les terme
 officiels, implémentés dans la série par l'équipe de traduction de Bamco, 
 notre version apporte quelques changements, par souci de fidélité à l'oeuvre 
 originale, ou par limitations techniques.
+
+
+----------------------------------------------------
+
+
+<img width="1440" height="816" alt="ULJS00293_00003" src="https://github.com/user-attachments/assets/7bc5f4c2-8c73-489e-9bc6-ce0c633d110e" />
+
+<img width="1440" height="816" alt="ULJS00293_00007" src="https://github.com/user-attachments/assets/bd5e870e-c240-4d02-ac06-e33919e4655c" />
+
+<img width="1440" height="816" alt="ULJS00293_00009" src="https://github.com/user-attachments/assets/8bbd1aea-964f-49b4-8e8c-739dd9146ef6" />
+
+<img width="1440" height="816" alt="ULJS00293_00010" src="https://github.com/user-attachments/assets/9788b0ac-23fb-470e-bdec-b2073c2f543a" />
