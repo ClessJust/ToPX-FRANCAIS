@@ -20,7 +20,7 @@ Patch créé par mziab
 
 **Relecteurs**
 
-- radiant4157
+- Radiant4157
 - Muctales
 - Mortimer-sama
 - Ningendou
