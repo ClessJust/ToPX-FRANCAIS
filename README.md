@@ -37,7 +37,8 @@ Contact : @clesslejuste sur Discord
 Discord Tales of ABCDE : https://discord.gg/MM8g3cKHp
 ---------------------------------------------------
 
-                                                              *Version 1.0*
+**Version 1.0**
+                                                              
 --------------------------------------------------
 
 - Texte entièrement traduit en français
