@@ -1,4 +1,4 @@
-# ToPX-FRANCAIS
+## ToPX-FRANCAIS
 ToPX FR patch + ressources annexes
 Tales of Phantasia - Cross Edition 
 Version Française v1.0
@@ -6,33 +6,37 @@ Version Française v1.0
 
 Sortie initiale : 05/06/2026 
 
-==========================================
+------------------------------------------
+
 Basé sur la v1.1 du patch anglais de Life Bottle Production
 Patché sur Tales of Phantasia Narikiri Dungeon X
 Patch créé par mziab
-===========================================================
-Traducteur
 
-Cless le Juste 
+-----------------------------------------
 
-Relecteurs
+**Traducteur**
 
-radiant4157
-Muctales
-Mortimer-sama
-Ningendou
+- ClessLeJuste 
 
-Développeurs/romhacking
-mziab
+**Relecteurs**
+
+- radiant4157
+- Muctales
+- Mortimer-sama
+- Ningendou
+
+**Développeurs/romhacking**
+
+- mziab
 
 Remerciements aux sus-cités pour le travail de longue haleine fourni par chacun.
 
 Contact : @clesslejuste sur Discord
 Discord Tales of ABCDE : https://discord.gg/MM8g3cKHp
-================================================================================
+---------------------------------------------------
 
-Version 1.0
-----------------
+              Version 1.0
+--------------------------------------------------
 
 -Texte entièrement traduit en français
 -Assets graphiques textuels entièrement remaniés
