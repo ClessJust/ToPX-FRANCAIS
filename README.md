@@ -2,6 +2,7 @@
 ToPX FR patch + ressources annexes
 Tales of Phantasia - Cross Edition 
 Version Française v1.0
+
 ------------------------------------------
 
 Sortie initiale : 05/06/2026 
@@ -18,7 +19,8 @@ Patch créé par mziab
 [Tutos + cheats.zip](https://github.com/user-attachments/files/28567843/Tutos.%2B.cheats.zip)
 
 -----------------------------------------
-Lien du patcher : https://clessjust.github.io/ToPX-FRANCAIS/patcher/
+Lien du patcher : 
+https://clessjust.github.io/ToPX-FRANCAIS/patcher/
 
 -----------------------------------------
 
