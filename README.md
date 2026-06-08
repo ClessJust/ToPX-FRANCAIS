@@ -16,7 +16,8 @@ Patch créé par mziab
 
 **Veuillez télécharger ce fichier .zip et lisez les .txt**
 
-[Tuto + cheats.zip](https://github.com/user-attachments/files/28729301/Tuto.%2B.cheats.zip)
+[Tutos + cheats.zip](https://github.com/user-attachments/files/28729396/Tutos.%2B.cheats.zip)
+
 
 
 
