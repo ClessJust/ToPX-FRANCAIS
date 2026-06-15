@@ -1,7 +1,7 @@
 ## ToPX-FRANCAIS
 ToPX FR patch + ressources annexes
 Tales of Phantasia - Cross Edition 
-Version Française v1.0
+Version Française v1.1
 ------------------------------------------
 
 Sortie initiale : 05/06/2026 
@@ -11,6 +11,16 @@ Sortie initiale : 05/06/2026
 Basé sur la v1.1 du patch anglais de Life Bottle Production
 Patché sur Tales of Phantasia Narikiri Dungeon X
 Patch créé par mziab
+
+-----------------------------------------
+
+La version 1.1 de Tales of Phantasia est disponible ! 
+
+Le patch inclut :
+-Correction de certaines lignes de dialogue pour les rendre plus cohérentes
+-Correction de fautes de typographie ou d'orthographe
+-Correction d'un bug qui bloquait le curseur lors du renommage des personnages après avoir appuyé sur L ou R
+-Correction d'un crash du jeu lorsque Mint utilisait Silence et que l'ennemi affecté tentait d'utiliser un sort quand même
 
 -----------------------------------------
 
