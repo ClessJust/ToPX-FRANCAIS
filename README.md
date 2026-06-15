@@ -23,12 +23,13 @@ Le patch inclut :
  - Correction de fautes de typographie ou d'orthographe
  - Correction d'un bug qui bloquait le curseur lors du renommage des personnages après avoir appuyé sur L ou R
  - Correction d'un crash du jeu lorsque Mint utilisait Silence et que l'ennemi affecté tentait d'utiliser un sort quand même
+ - Ajout de cheats plus extensifs et possibilité de retirer les améliorations de la boutique de points
 
 ------------------------------------------
 
 **Veuillez télécharger ce fichier .zip et lisez les .txt**
 
-[Tutos + cheats.zip](https://github.com/user-attachments/files/28729418/Tutos.%2B.cheats.zip)
+[Tuto + cheats.zip](https://github.com/user-attachments/files/28975719/Tuto.%2B.cheats.zip)
 
 
 
